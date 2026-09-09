@@ -1,0 +1,6 @@
+{
+  "name": "Enterprise RAG Assistant",
+  "description": "Document-grounded retrieval-augmented AI assistant for enterprise policies, SOPs, and manuals with hybrid search, file and URL ingestion, citation explorer, and compliance evaluation dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
